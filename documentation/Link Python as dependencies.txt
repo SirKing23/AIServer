@@ -1,0 +1,45 @@
+Link Python as dependencies
+1. Locate your Python installation directory
+
+In cmd, run: where python
+
+2. Find the include folder
+ex: C:\Users\King\AppData\Local\Programs\Python\Python311\include
+👉 This folder contains Python.h and other headers.
+
+3. Add it in Visual Studio
+
+Open your project in Visual Studio 2022
+
+Right-click your project → Properties
+
+Go to:
+Configuration Properties > C/C++ > General > Additional Include Directories
+
+Add the path to your Python include folder, e.g.:
+
+C:\Users\King\AppData\Local\Programs\Python\Python312\include
+
+4. Also add the libs folder
+
+You’ll need the .lib files for linking.
+In your Python root, you’ll see:
+
+C:\Users\King\AppData\Local\Programs\Python\Python312\libs
+
+
+Add that in:
+
+Configuration Properties > Linker > General > Additional Library Directories
+
+
+And then link against python311.lib:
+
+Configuration Properties > Linker > Input > Additional Dependencies
+
+
+Add:
+
+python311.lib
+
+

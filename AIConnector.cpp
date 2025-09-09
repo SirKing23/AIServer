@@ -85,5 +85,10 @@ std::string AIConnector::callPythonStringFunction(const std::string& moduleName,
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    AIConnector myAI;
+
+std::string inputstr = "hello";
+std::string outputStr = myAI.callPythonStringFunction("strings.py", "reverse_string", inputstr);
+std::cout << outputStr;
+
 }

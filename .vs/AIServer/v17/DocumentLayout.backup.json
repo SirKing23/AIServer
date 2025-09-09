@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\",
+  "WorkspaceRootPath": "D:\\TestFiles\\AIServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05667A4B-3313-4BB8-8212-A967F26871A5}|AIServer.vcxproj|C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{05667A4B-3313-4BB8-8212-A967F26871A5}|AIServer.vcxproj|solutionrelative:AIConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestFiles\\AIServer\\AIConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05667A4B-3313-4BB8-8212-A967F26871A5}|AIServer.vcxproj|C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{05667A4B-3313-4BB8-8212-A967F26871A5}|AIServer.vcxproj|solutionrelative:AIConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestFiles\\AIServer\\AIConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,24 +52,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AIConnector.h",
-              "DocumentMoniker": "C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.h",
+              "DocumentMoniker": "D:\\TestFiles\\AIServer\\AIConnector.h",
               "RelativeDocumentMoniker": "AIConnector.h",
-              "ToolTip": "C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.h",
+              "ToolTip": "D:\\TestFiles\\AIServer\\AIConnector.h",
               "RelativeToolTip": "AIConnector.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-29T08:30:54.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T08:30:54.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AIConnector.cpp",
-              "DocumentMoniker": "C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.cpp",
+              "DocumentMoniker": "D:\\TestFiles\\AIServer\\AIConnector.cpp",
               "RelativeDocumentMoniker": "AIConnector.cpp",
-              "ToolTip": "C:\\Users\\PCTRDEVS-04\\source\\repos\\AIServer\\AIConnector.cpp*",
-              "RelativeToolTip": "AIConnector.cpp*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAArwFYAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\TestFiles\\AIServer\\AIConnector.cpp",
+              "RelativeToolTip": "AIConnector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-29T08:29:16.161Z",
               "EditorCaption": ""
